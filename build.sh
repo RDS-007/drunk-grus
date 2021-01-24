@@ -14,7 +14,7 @@ export PATH=${CLANG_PATH}:${PATH}
 export CROSS_COMPILE=${CLANG_PATH}/aarch64-linux-gnu-
 export CROSS_COMPILE_ARM32=${CLANG_PATH}/arm-linux-gnueabi-
 export THINLTO_CACHE=/datadrive/kernel/ltocache/
-DEFCONFIG="kowalski_defconfig"
+DEFCONFIG="gru_defconfig"
 
 # Kernel Details
 VER="R1"
