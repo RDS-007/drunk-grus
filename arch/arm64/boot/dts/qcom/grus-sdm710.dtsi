@@ -867,6 +867,7 @@
 /* sdm670.dtsi */
 &clock_cpucc {
 	qcom,cpufreq-table-0 =
+		<1209600>,
 		<1612800>,
 		<1708800>;
 
